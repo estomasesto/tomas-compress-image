@@ -1,0 +1,9 @@
+{
+  "id": "tomas-compress-image",
+  "name": "Tomás Compress Image",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Mi versión personalizada: comprime varias imágenes (JPEG en iOS), las inserta juntas y con alto personalizado.",
+  "author": "Tomás Iga",
+  "isDesktopOnly": false
+}
